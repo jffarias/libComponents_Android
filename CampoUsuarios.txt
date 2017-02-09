@@ -1,0 +1,51 @@
+La clase base sera Persona que contiene los siguientes datos:
+private String Nombre;
+private String Apellidos;
+private double Peso;
+private double Estatura;
+private int Edad;
+private int Sexo;
+
+Luego en la base de datos se creara una tabla para los siguientes usuarios.
+CLIENTE:
+ID_USUARIO
+NOMBRE
+APELLIDO
+CEDULA
+TELEFONO
+CIUDAD
+DIRECCION
+
+USUARIO:
+NOMBRE_COMPLETO
+CORREO_ELECTRONICO
+NOMBRE_USUARIO
+CONTRASEÑA
+NUMERO_IDENTIDAD
+
+USUARIO_DATOS_PERSONALES:
+NOMBRE
+APELLIDOS
+DNI
+SEXO
+FECHA_NACIMIENTO
+GRADO_ACADEMICO
+DOMICILIO
+POBLACION
+CODIGO_POSTAL
+PAIS
+PROVINCIA
+TELEFONO
+TELEFONO_MOVIL
+FAX
+EMAIL
+PAGINA_WEB
+
+CONTACTO_TELEFONO:
+NOMBRE
+APELLIDOS
+ALIAS
+NUMERO_TELEFONO
+TIPO_TELEFONO
+EMAIL
+NOTA
